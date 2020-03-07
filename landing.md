@@ -25,7 +25,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/landing-testbed-project.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/landing-iot-project.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,23 +41,24 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="" class="image">
+			<img src="{% link assets/images/landing-bc-project.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Cloud-based Testbed for Blockchain Networks</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
+				<p>As blockchain technologies become mainstream, more businesses and governments have been exploring the idea of integrating blockchain into their systems. The increased maturity of blockchain platforms makes it possible for these parties to design and deploy their own blockchain network. While self-deployed networks allow for more flexibility, they also present new design challenges for architects, such as distributing various components of a blockchain network to participants and choosing a suitable protocol.</p>
+				<p>The goal of ths project is to close the feedback loop by allowing architects to quickly deploy and evaluate their network, prior to the official roll out. </p>
+				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
