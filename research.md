@@ -1,7 +1,7 @@
 ---
 title: My Research
 layout: landing
-description: 'My Research Vision and a selection of projects that I work on'
+description: 'Vision and Themes of my research'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -23,9 +23,6 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-	<header class="major">
-		<h2>My Research Themes</h2>
-	</header>
 	<section>
 		<a href="" class="image">
 			<img src="{% link assets/images/landing-iot-project.jpg %}" alt="" data-position="center center" />
