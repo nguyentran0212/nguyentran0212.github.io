@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: My Research
 layout: landing
 description: 'My Research Vision and a selection of projects that I work on'
 image: assets/images/pic07.jpg
@@ -34,6 +34,7 @@ nav-menu: true
 				</header>
 				<p>Adelaide Blockchain-enabled IoT Testbed is funded by the Australian Research Council Linkage Infrastructure, Equipment and Facilities Project (ARC LIEF Grant), and led by a consortium of leading Australian universities. The Adelaide's node is led by Prof. M. Ali Babar. The goal of this project is to create an open research facility to study various aspects of IoT technologies.</p>
 				<p>The Adelaide's node would be the first to incorporate blockchain technologies to provide cryptographic trust and provenance to various aspects of the testbed operation, from hardware management and deployment, to binary provisioning and data collection.</p>
+				<p>Various research projects at final-year, honour, and master level related to this project are available. Contact me for more information.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -50,7 +51,26 @@ nav-menu: true
 					<h3>Cloud-based Testbed for Blockchain Networks</h3>
 				</header>
 				<p>As blockchain technologies become mainstream, more businesses and governments have been exploring the idea of integrating blockchain into their systems. The increased maturity of blockchain platforms makes it possible for these parties to design and deploy their own blockchain network. While self-deployed networks allow for more flexibility, they also present new design challenges for architects, such as distributing various components of a blockchain network to participants and choosing a suitable protocol.</p>
-				<p>The goal of ths project is to close the feedback loop by allowing architects to quickly deploy and evaluate their network, prior to the official roll out. </p>
+				<p>The goal of this project is to close the feedback loop by allowing architects to quickly deploy and evaluate their network, prior to the official roll out. </p>
+				<p>Various research projects at final-year, honour, and master level related to this project are available. Contact me for more information.</p>
+				<!-- <ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/landing-ai-project.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Provenance of Artificial Intelligence with Blockchain</h3>
+				</header>
+				<p>AI models no longer reside in the lab as fascinating study objects. They have been actively participating in the world, generating values, and even dictating parts of our lives. In near future, they might decide whether one can get a loan, they might airdrop our packages, and they might drive our cars. Admist these rapid advancements, one should ask about the trustworthiness of these AI models. Where do they come from? Who trained them? Using which data? Which algorithm? So on and so forth.</p>
+				<p>This project investigates the use of blockchain as a transnational, trustless entity to maintain provenance chains of AI models. </p>
+				<p>Various research projects at final-year, honour, and master level related to this project are available. Contact me for more information.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -64,12 +84,14 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Provenance of Artificial Intelligence with Blockchain</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
+				<p>AI models no longer reside in the lab as fascinating study objects. They have been actively participating in the world, generating values, and even dictating parts of our lives. In near future, they might decide whether one can get a loan, they might airdrop our packages, and they might drive our cars. Admist these rapid advancements, one should ask about the trustworthiness of these AI models. Where do they come from? Who trained them? Using which data? Which algorithm? So on and so forth.</p>
+				<p>This project investigates the use of blockchain as a transnational, trustless entity to maintain provenance chains of AI models. </p>
+				<p>Various research projects at final-year, honour, and master level related to this project are available. Contact me for more information.</p>
+				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</section>
