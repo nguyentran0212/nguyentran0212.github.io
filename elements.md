@@ -6,8 +6,8 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
 <!-- One -->
+
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -42,7 +42,6 @@ nav-menu: true
 </div>
 
 <hr class="major" />
-
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
@@ -60,8 +59,8 @@ Finally, this is a <a href="#">link</a>.</p>
 <h4>Heading Level 4</h4>
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
 <!-- Lists -->
+
 <h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -72,17 +71,17 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis dolore viverra.</li>
 		</ul>
-
+	
 		<h4>Alternate</h4>
 		<ul class="alt">
 			<li>Dolor etiam magna etiam.</li>
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis feugiat viverra.</li>
 		</ul>
-
+	
 	</div>
 	<div class="6u$ 12u$(small)">
-
+	
 		<h4>Ordered</h4>
 		<ol>
 			<li>Dolor etiam magna etiam.</li>
@@ -92,7 +91,7 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li>Etiam vel lorem sed viverra.</li>
 			<li>Felis dolore viverra.</li>
 		</ol>
-
+	
 		<h4>Icons</h4>
 		<ul class="icons">
 			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -107,7 +106,7 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
 		</ul>
-
+	
 	</div>
 </div>
 
@@ -166,10 +165,8 @@ Finally, this is a <a href="#">link</a>.</p>
 <!-- Blockquote -->
 <h3>Blockquote</h3>
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
 <!-- Table -->
 <h3>Table</h3>
-
 <h4>Default</h4>
 <div class="table-wrapper">
 	<table>
@@ -300,7 +297,6 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <!-- Form -->
 <h3>Form</h3>
-
 <form method="post" action="#">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
@@ -359,7 +355,6 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <!-- Image -->
 <h3>Image</h3>
-
 <h4>Fit</h4>
 <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
 <div class="box alt">
@@ -381,7 +376,6 @@ Finally, this is a <a href="#">link</a>.</p>
 <h4>Left &amp; Right</h4>
 <p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 <p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
 <!-- Box -->
 <h3>Box</h3>
 <div class="box">

@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus. Text text.
+I am a researcher at the University of Adelaide and a member of the Centre for Research on Engineering Software Technology (CREST). I study the architecture of software intensive systems that are woven in to the fabric of modern societies. My current interest is in decentralized systems, enabled by the Distributed Ledger Technology.
