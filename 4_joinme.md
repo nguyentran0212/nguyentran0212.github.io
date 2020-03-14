@@ -2,7 +2,7 @@
 layout: post
 title: Join Me
 description: Scholarship Opportunities and Collaboration
-image: assets/images/page_teaching.jpg
+image: assets/images/page_join.jpg
 nav-menu: true
 ---
 

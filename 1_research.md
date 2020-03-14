@@ -2,7 +2,7 @@
 title: My Research
 layout: landing
 description: 'Vision and Themes of my research'
-image: assets/images/pic07.jpg
+image: assets/images/page_research.jpg
 nav-menu: true
 ---
 
