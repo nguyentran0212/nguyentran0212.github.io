@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Publications
 description: Peer-reviewed articles, talks, and datasets
 image: assets/images/page_publications.jpg
